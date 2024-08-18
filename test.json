@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "data": [
+      {
+        "name": "zjl",
+        "gender": 1,
+        "no": "22374138",
+        "academy": "123",
+        "major": "123",
+        "enterdate": "2023-10-20"
+      }
+    ]
+}
